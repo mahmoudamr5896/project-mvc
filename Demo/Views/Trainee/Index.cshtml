@@ -1,0 +1,20 @@
+﻿
+<table class="table table-bordered table-hover">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Address</th>
+        <th>Image</th>
+        <th>DETAILS</th>
+    </tr>
+    @foreach(var item in Model){
+   <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Address</td>
+            <td>@item.IMage</td>
+            <td><a class="btn btn-secondary" href="/Trainee/Detail/@item.Id">SHOW</a></td>
+    </tr>
+    }
+ 
+</table>

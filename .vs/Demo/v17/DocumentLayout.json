@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mahmoud\\Desktop\\MVC\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F837962C-D85B-4AA9-AF20-834AB0DA9496}|Demo\\Demo.csproj|c:\\users\\mahmoud\\desktop\\mvc\\demo\\demo\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F837962C-D85B-4AA9-AF20-834AB0DA9496}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 121,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\Desktop\\MVC\\Demo\\Demo\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Mahmoud\\Desktop\\MVC\\Demo\\Demo\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:56:10.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

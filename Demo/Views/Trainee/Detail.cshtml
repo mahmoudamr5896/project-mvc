@@ -1,0 +1,19 @@
+﻿@model List<Demo.Models.CrsResult>
+
+<h2>Trainee Details</h2>
+
+<table class="table table-bordered table-hover">
+    <tr>
+        <th>Trainee Name</th>
+        <th>Course Name</th>
+        <th>Degree</th>
+    </tr>
+    @foreach (var result in Model)
+    {
+        <tr style="background-color:@(result.Degree >= 60 ? "green" : "red");">
+            <td>@result.Trainee?.Name</td> 
+            <td>@result.Courses?.Name</td> 
+            <td>@result.Degree</td> 
+        </tr>
+    }
+</table>
